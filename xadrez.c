@@ -8,7 +8,7 @@ int main() {
     int rainha = 0;
     int cavalo = 1;
 
-    // mover a torre 5 casas para a direita
+    // mover a torre 5 casas para a direita.
     for (torre = 0; torre < 5; torre++) {
         printf("Direta\n"); // imprime o movimento para direita.
     }
